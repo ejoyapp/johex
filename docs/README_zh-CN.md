@@ -97,4 +97,4 @@ JoHex 正在从传统的十六进制编辑器演变为一个完整的二进制�
 - 智能逆向工程辅助
 
 ## 🔗 了解更多
-**官方网站：** [https://www.ejoyapp.com/product/johex](https://www.ejoyapp.com/product/johex)
+**官方网站：** [https://www.ejoyapp.com/zh-CN/product/johex](https://www.ejoyapp.com/zh-CN/product/johex)
