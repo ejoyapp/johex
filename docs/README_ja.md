@@ -97,4 +97,4 @@ JoHex は従来のバイナリエディタから、完全なバイナリイン�
 - インテリジェントなリバースエンジニアリング支援
 
 ## 🔗 詳細はこちら
-**ウェブサイト:** [https://www.ejoyapp.com/product/johex](https://www.ejoyapp.com/product/johex)
+**ウェブサイト:** [https://www.ejoyapp.com/ja/product/johex](https://www.ejoyapp.com/ja/product/johex)
