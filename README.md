@@ -1,25 +1,100 @@
-# johex
+[English](README.md) | [简体中文](docs/README_zh-CN.md) | [繁體中文](docs/README_zh-HK.md) | [한국어](docs/README_ko.md) | [Français](docs/README_fr.md) | [日本語](docs/README_ja.md) | [Deutsch](docs/README_de.md)
 
-🚀 Discover JoHex: The Ultimate Forensic Hex Editor & Disk Analyzer
+---
 
-Are you still struggling with bloated, slow hex editors when analyzing gigabytes of raw binary files? Meet JoHex, a professional-grade toolkit engineered specifically for deep binary inspection, raw disk I/O, and live process memory editing.
+# JoHex — Binary Analysis Studio
 
-Built entirely in native C++ with direct Win32/POSIX API architectures, JoHex bypasses standard OS constraints to give you low-level system access with minimal overhead and maximum performance.
+## 🚀 Discover JoHex: The Next-Generation Binary Analysis Studio
+JoHex is a professional Binary Analysis Studio designed for reverse engineers, security researchers, firmware developers, and digital forensic professionals.
 
-🔥 Core Capabilities:
+Unlike traditional hex editors that only display raw bytes, JoHex transforms binary data into an interactive analysis environment combining:
+- Advanced Hex Editing
+- Binary Structure Analysis
+- Reverse Engineering Workflows
+- Raw Disk Investigation
+- Process Memory Analysis
+- Extensible Python Automation
 
-* Live Process Memory Read/Write: Attach to active processes, inspect memory regions, and modify execution states in real-time.
-* Physical Raw Disk Access: Analyze raw sectors, master boot records (MBR/GPT), partitions, and unallocated space directly through low-level disk interfaces.
-* Blazing-Fast Pattern Search: Match regex, wildcards, and exact hex signatures across gigabytes of data using our optimized paging and streaming engine.
-* Embedded Python 3.12 Scripting: Automate forensic workflows, create custom analyzers, develop plugins, and integrate with the rich Python ecosystem for advanced binary analysis.
+Built with native C++ architecture and direct Win32/POSIX system interfaces, JoHex delivers high-performance low-level access with minimal overhead.
 
-🌍 What's New: Full Global Localization
+## 🔥 Core Capabilities
 
-We have officially launched our fully localized international experience! JoHex now natively supports English, 简体中文, 한국어, 日本語, Français, and Deutsch, complete with optimized SEO directories to better serve global security researchers, reverse engineers, and digital forensics professionals worldwide.
+### 🧬 Intelligent Binary Inspection
+Analyze complex binary formats beyond raw hexadecimal views.
+**Features:**
+- Binary structure visualization
+- Offset-based navigation
+- Data interpretation
+- Custom binary templates
+- File format exploration
+- Byte-level comparison
 
-🐍 Powered by Python 3.12
+### 🕵️ Reverse Engineering Toolkit
+Designed for deep binary research.
+**Capabilities:**
+- Live process memory inspection
+- Memory region analysis
+- Runtime memory modification
+- Executable investigation
+- Binary pattern discovery
 
-Leverage thousands of Python libraries directly from JoHex. Build custom parsers, automate repetitive analysis tasks, integrate AI-assisted workflows, and extend JoHex with your own plugins using a modern, widely adopted scripting language.
+### 💽 Advanced Disk & Storage Analysis
+Direct low-level access for forensic workflows.
+**Analyze:**
+- Physical disks
+- Raw sectors
+- MBR/GPT structures
+- Partition tables
+- Unallocated space
+- Disk images
 
-👉 Star us or explore the localized documentation:
-https://www.ejoyapp.com/product/johex
+### ⚡ High-Performance Search Engine
+Search terabytes of binary data efficiently.
+**Supported:**
+- Exact byte signatures
+- Hex patterns
+- Wildcards
+- Regular expressions
+- Streaming search
+- Large file paging
+
+### 🐍 Python Automation & Plugin System
+Extend JoHex with Python 3.12.
+**Create:**
+- Custom analyzers
+- Binary parsers
+- Automation scripts
+- Forensic tools
+- AI-assisted analysis workflows
+
+Access thousands of Python libraries directly inside JoHex.
+
+## 🌍 Built for Professionals Worldwide
+JoHex supports:
+- English
+- 简体中文
+- 繁體中文
+- 한국어
+- 日本語
+- Français
+- Deutsch
+
+**Designed for:**
+- Reverse Engineers
+- Security Researchers
+- Malware Analysts
+- Firmware Engineers
+- Digital Forensics Experts
+- Embedded Developers
+
+## 🚀 From Hex Editor to Binary Analysis Platform
+JoHex is evolving from a traditional hex editor into a complete binary intelligence platform.
+**Future capabilities:**
+- AI-assisted binary understanding
+- Automatic file format detection
+- Firmware analysis
+- Binary structure recognition
+- Intelligent reverse engineering assistance
+
+## 🔗 Learn More
+**Website:** [https://www.ejoyapp.com/product/johex](https://www.ejoyapp.com/product/johex)
