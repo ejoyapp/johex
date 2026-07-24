@@ -1,0 +1,23 @@
+{
+  "$comment": "Update manifest — host at repo root on the main branch. Fetched via raw.githubusercontent.com. Update this file as part of every release; the app falls back to the GitHub Releases API if this file is unreachable.",
+  "version": "3.1.0.0",
+  "releaseDate": "2026-07-25",
+  "notes": {
+    "en": "New release: Added Python script structural analysis, AI Copilot integration, and performance improvements.",
+    "zh": "全新发布：新增 Python 脚本结构化分析、AI 助手集成以及多项核心性能优化。",
+    "de": "Neue Version: Python-Skript-Strukturanalyse, AI-Copilot-Integration und Leistungsverbesserungen hinzugefügt.",
+    "fr": "Nouvelle version : ajout de l'analyse structurelle par script Python, de l'intégration AI Copilot et d'améliorations des performances.",
+    "ko": "새 릴리스: Python 스크립트 구조 분석, AI Copilot 통합 및 성능 향상 추가.",
+    "ja": "新リリース：Pythonスクリプトの構造分析、AI Copilotの統合、およびパフォーマンスの向上を追加しました。"
+  },
+  "assets": {
+    "win-setup":      "https://github.com/ejoyapp/johex/releases/download/v3.1.0.0/JoHex.3.1.0.Installer64.exe", 
+    "win-portable":   "https://github.com/ejoyapp/johex/releases/download/v3.1.0.0/JoHex.3.1.0.exe",
+    "mac-dmg":        "https://github.com/ejoyapp/johex/releases/download/v3.1.0.0/JoHex.3.1.0.dmg",
+    "linux-appimage": "https://github.com/ejoyapp/johex/releases/download/v3.1.0.0/JoHex.3.1.0.AppImage"
+  },
+  "stores": {
+    "mas":     "macappstore://itunes.apple.com/app/id0000000000",
+    "msstore": "ms-windows-store://pdp/?productid=9PHLG49FX8GQ"
+  }
+}
