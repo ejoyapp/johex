@@ -97,4 +97,4 @@ JoHex évolue d'un éditeur hexadécimal traditionnel vers une plateforme compl�
 - Assistance intelligente à la rétro-ingénierie
 
 ## 🔗 En Savoir Plus
-**Site web :** [https://www.ejoyapp.com/product/johex](https://www.ejoyapp.com/product/johex)
+**Site web :** [https://www.ejoyapp.com/fr/product/johex](https://www.ejoyapp.com/fr/product/johex)
