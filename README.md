@@ -97,4 +97,4 @@ JoHex is evolving from a traditional hex editor into a complete binary intellige
 - Intelligent reverse engineering assistance
 
 ## 🔗 Learn More
-**Website:** [https://www.ejoyapp.com/product/johex](https://www.ejoyapp.com/en/product/johex)
+**Website:** [https://www.ejoyapp.com/en/product/johex](https://www.ejoyapp.com/en/product/johex)
