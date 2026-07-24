@@ -97,4 +97,4 @@ JoHex entwickelt sich von einem traditionellen Hex-Editor zu einer vollständige
 - Intelligente Reverse-Engineering-Unterstützung
 
 ## 🔗 Mehr erfahren
-**Website:** [https://www.ejoyapp.com/product/johex](https://www.ejoyapp.com/product/johex)
+**Website:** [https://www.ejoyapp.com/de/product/johex](https://www.ejoyapp.com/de/product/johex)
