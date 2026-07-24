@@ -97,4 +97,4 @@ JoHex는 전통적인 16진수 편집기에서 완전한 바이너리 인텔리�
 - 지능형 리버스 엔지니어링 지원
 
 ## 🔗 더 알아보기
-**웹사이트:** [https://www.ejoyapp.com/product/johex](https://www.ejoyapp.com/product/johex)
+**웹사이트:** [https://www.ejoyapp.com/ko/product/johex](https://www.ejoyapp.com/ko/product/johex)
